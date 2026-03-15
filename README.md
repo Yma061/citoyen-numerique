@@ -2,7 +2,7 @@
 Secure anonymous communication platform and encrypted chat.
 ## Website
 
-https://citoyennumeriquechat.alwaysdata.net
+https://citoyennumerique.alwaysdata.net
 
 ## Features
 
