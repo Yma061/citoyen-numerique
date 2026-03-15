@@ -2,7 +2,7 @@
 Secure anonymous communication platform and encrypted chat.
 ## Website
 
-https://citoyennumeriquechat.duckdns.org
+https://citoyennumeriquechat.alwaysdata.net
 
 ## Features
 
