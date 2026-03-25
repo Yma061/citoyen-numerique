@@ -3,6 +3,6 @@
 Citoyen Numérique is a secure anonymous messaging platform.
 
 Website:
-https://citoyennumeriquechat.duckdns.org
+https://citoyennumerique.alwaysdata.net/secret/cache.php
 
 The platform provides encrypted communication and private chat features.
